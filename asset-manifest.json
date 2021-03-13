@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/doctrino/monsters-rolodex/static/css/main.11d74ace.chunk.css",
+    "main.js": "/doctrino/monsters-rolodex/static/js/main.10c65e33.chunk.js",
+    "main.js.map": "/doctrino/monsters-rolodex/static/js/main.10c65e33.chunk.js.map",
+    "runtime-main.js": "/doctrino/monsters-rolodex/static/js/runtime-main.52046003.js",
+    "runtime-main.js.map": "/doctrino/monsters-rolodex/static/js/runtime-main.52046003.js.map",
+    "static/js/2.80a3d519.chunk.js": "/doctrino/monsters-rolodex/static/js/2.80a3d519.chunk.js",
+    "static/js/2.80a3d519.chunk.js.map": "/doctrino/monsters-rolodex/static/js/2.80a3d519.chunk.js.map",
+    "static/js/3.8a5726d2.chunk.js": "/doctrino/monsters-rolodex/static/js/3.8a5726d2.chunk.js",
+    "static/js/3.8a5726d2.chunk.js.map": "/doctrino/monsters-rolodex/static/js/3.8a5726d2.chunk.js.map",
+    "index.html": "/doctrino/monsters-rolodex/index.html",
+    "static/css/main.11d74ace.chunk.css.map": "/doctrino/monsters-rolodex/static/css/main.11d74ace.chunk.css.map",
+    "static/js/2.80a3d519.chunk.js.LICENSE.txt": "/doctrino/monsters-rolodex/static/js/2.80a3d519.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52046003.js",
+    "static/js/2.80a3d519.chunk.js",
+    "static/css/main.11d74ace.chunk.css",
+    "static/js/main.10c65e33.chunk.js"
+  ]
+}
