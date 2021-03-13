@@ -1,12 +1,5 @@
-@font-face {
-  font-family: bigelowrules;
-  font-style: normal;
-  font-weight: normal;
-  src: local("bigelowrulesregular.ttf"), url("bigelowrulesregular.ttf") format("ttf");
-}
-
 h1 {
-  font-family: bigelowrules, serif;
+  font-family: 'Bigelow Rules', sans-serif;
   font-size: 72px;
   color: #0ccac4;
 }
